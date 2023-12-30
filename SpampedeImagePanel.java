@@ -6,13 +6,7 @@ import java.awt.Dimension;
 import java.awt.Image;
 import java.awt.Graphics;
 
-/**
- * Implements low-level graphics work.
- * 
- * DO NOT MODIFY.
- * 
- * @author CS60 instructors
- */
+
 public class SpampedeImagePanel extends JPanel {
 
 	/** The image that this panel draws */
