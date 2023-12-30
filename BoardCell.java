@@ -2,11 +2,7 @@ package com.gradescope.spampede;
 
 import java.awt.Color;
 
-/**
- * Represents a single cell within a board.
- * 
- * @author CS60 instructors
- */
+
 class BoardCell {
 
 	/* ----------------------------- */
