@@ -5,12 +5,7 @@ import java.lang.Math;
 import java.util.LinkedList;
 import java.util.Queue;
 
-/**
- * The "model" in MVC that is responsible for storing all the data for the
- * board.
- * 
- * @author CS60 instructors
- */
+
 class SpampedeData {
 	/**
 	 * The collection of all the BoardCells in the program, indexed by row and
