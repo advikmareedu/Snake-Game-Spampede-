@@ -6,15 +6,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.net.URL;
 
-/**
- * Provides back-end for SpampedeBrain and SpampedeDisplay.
- * 
- * You do not have to understand this code.
- * 
- * DO NOT MODIFY.
- * 
- * @author CS60 instructors
- */
+
 public abstract class SpampedeBrainParent extends JApplet implements ActionListener, KeyListener, Runnable {
 
 	/** The off-screen buffer of image */
