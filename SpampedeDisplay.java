@@ -4,11 +4,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Image;
 
-/**
- * The "view" in MVC that is responsible for drawing the board on the screen.
- * 
- * @author CS60 instructors
- */
+
 class SpampedeDisplay {
 
 	/** The board/spampede data being drawn. */
