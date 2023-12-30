@@ -2,13 +2,7 @@ package com.gradescope.spampede;
 
 import java.awt.event.KeyEvent;
 
-/**
- * The "controller" in MVC that is responsible for the logic of the game, e.g.
- * deciding how to move the snake, as well as handling keystrokes and
- * controlling the timesteps that move the snake forward.
- * 
- * @author CS60 instructors
- */
+
 public class SpampedeBrain extends SpampedeBrainParent {
 
 	/** The "view" in MVC. */
